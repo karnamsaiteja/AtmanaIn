@@ -1,0 +1,29 @@
+html {
+  font-size: 62.5%;
+}
+.category-button {
+  background: none;
+  font-size: 1.6rem;
+  height: 3.2rem;
+  width: 12.4rem;
+  padding: 0.8rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 0.2px solid #222;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.1s ease-in-out;
+}
+
+.category-button:hover {
+  background-color: #222;
+  color: #fff;
+  border: none;
+}
+
+@media (max-width: 44rem) {
+  .category-button {
+    width: 8.2rem;
+  }
+}
