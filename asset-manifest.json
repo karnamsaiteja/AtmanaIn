@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AtmanaIn/static/css/main.f941e373.css",
+    "main.js": "/AtmanaIn/static/js/main.7c9dfd01.js",
+    "index.html": "/AtmanaIn/index.html",
+    "main.f941e373.css.map": "/AtmanaIn/static/css/main.f941e373.css.map",
+    "main.7c9dfd01.js.map": "/AtmanaIn/static/js/main.7c9dfd01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f941e373.css",
+    "static/js/main.7c9dfd01.js"
+  ]
+}
