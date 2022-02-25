@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AtmanaIn/static/css/main.4ae4be2e.css",
+    "main.css": "/AtmanaIn/static/css/main.2997033a.css",
     "main.js": "/AtmanaIn/static/js/main.28c7ad46.js",
     "index.html": "/AtmanaIn/index.html",
-    "main.4ae4be2e.css.map": "/AtmanaIn/static/css/main.4ae4be2e.css.map",
+    "main.2997033a.css.map": "/AtmanaIn/static/css/main.2997033a.css.map",
     "main.28c7ad46.js.map": "/AtmanaIn/static/js/main.28c7ad46.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ae4be2e.css",
+    "static/css/main.2997033a.css",
     "static/js/main.28c7ad46.js"
   ]
 }
